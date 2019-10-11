@@ -1,9 +1,9 @@
 <?php
 
 	/*
-	* fxProtect - https://fxprotect.upfox.com.br
+	* fxProtect - https://www.upfox.com.br/hash
 	* version 1.0.0
-	* author Silva, Flavio Augusto [flavio@upfox.com]
+	* author Silva, Flavio Augusto [flavio@upfox.com.br]
 	* copyright Silva, Flavio 2017-2019
 	* license Upfox, inc
 	*/
